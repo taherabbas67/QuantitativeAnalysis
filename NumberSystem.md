@@ -1,4 +1,4 @@
-<center><h1>Number System</h1></center>
+<h1>Number System</h1>
 <br>
 What is Number ?
 
@@ -6,6 +6,7 @@ A number is denoted by a group of digits, called numerical which is used for rep
 example: 21, 365, 24, etc.
 
 <h4>Types of Numbers :</h4>
+
 1. Natural Numbers
 2. Whole Numbers
 3. Integers
