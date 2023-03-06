@@ -1,4 +1,4 @@
-What is NUmber ?
+What is Number ?
 
 A number is denoted by a group of digits, called numerical which is used for representing the quantity and making calculations.
 
