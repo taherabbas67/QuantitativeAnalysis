@@ -1,3 +1,3 @@
 # QuantitativeAnalysis
 
-1. @ NumberSystem.md
+1. NumberSystem.md
