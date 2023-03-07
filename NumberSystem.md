@@ -23,3 +23,8 @@ example: 21, 365, 24, etc.
 Counting numbers are called Natural numbers that contain the positive integers from 1 to infinity.
 The set of natural numbers denoted by N.
 N = {1, 2, 3, 4, 5, 6,...}
+
+<h4>Whole Numbers :</h4>
+All counting numbers including 0 form the set of whole numbers. These numbers are non-negative and does not include any fractional or decimal part. It is denoted as W.
+W = {0, 1, 2, 4, 5, 6,...}
+
