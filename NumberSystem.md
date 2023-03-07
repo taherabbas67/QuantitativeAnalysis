@@ -40,6 +40,4 @@ Real numbers include all natural numbers, whole numbers, integers, rational numb
 Numbers which can be expressed in the form of p/q, where p and q are integers and q=!0.
 
 <h4>Irrational Numbers :</h4>
-Counting numbers are called Natural numbers that contain the positive integers from 1 to infinity.
-The set of natural numbers denoted by N.
-N = {1, 2, 3, 4, 5, 6,...}
+The numbers that can't expressed as the ratio
