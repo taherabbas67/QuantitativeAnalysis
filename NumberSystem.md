@@ -31,3 +31,7 @@ W = {0, 1, 2, 4, 5, 6,...}
 <h4>Integers :</h4>
 Integers includes all counting numbers, zero and negatives of counting numbers. It is denoted as Z.
 Z = {...,-3 -2, -1, 0, 1, 2, 3,...}
+
+<h4>Real Numbers :</h4>
+All the positive and negative integers, fractional and decimal numbers without imaginary numbers are called as Real numbers. It is denoted as R.
+Real numbers include all natural numbers, whole numbers, integers, rational numbers and irrational numbers.
