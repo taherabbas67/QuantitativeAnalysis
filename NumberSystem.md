@@ -28,3 +28,6 @@ N = {1, 2, 3, 4, 5, 6,...}
 All counting numbers including 0 form the set of whole numbers. These numbers are non-negative and does not include any fractional or decimal part. It is denoted as W.
 W = {0, 1, 2, 4, 5, 6,...}
 
+<h4>Integers :</h4>
+Integers includes all counting numbers, zero and negatives of counting numbers. It is denoted as Z.
+Z = {...,-3 -2, -1, 0, 1, 2, 3,...}
